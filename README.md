@@ -2,6 +2,6 @@
 
 The slogan became a pop culture phenomenon, seeing widespread use and spawning numerous variants in the arts, entertainment and politics, being used by those who support and oppose the presidency of Donald Trump.
 
-Fork and star "Make American Great Again" solgan
+Fork, star and come to contribute : "Make American Great Again" solgan
 
 Source: https://en.wikipedia.org/wiki/Make_America_Great_Again
